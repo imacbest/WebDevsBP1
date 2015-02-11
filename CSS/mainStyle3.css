@@ -101,8 +101,12 @@ a{
     color: inherit;
     text-decoration: none;
 }
-.winkelwagen table, .winkelwagen tr, .winkelwagen td {
+.winkelwagen, .winkelwagen tr {
     width: 100%;
+    border: black 1px solid;
+}
+.winkelwagen td{
+    width: 15%;
     border: black 1px solid;
 }
 .productenTabel table, .productenTabel tr,.productenTabel td{
