@@ -106,8 +106,8 @@ a{
     width: 250px;
 }
 .previewContainer{
-    height: 250px;
-    width: 125px;
+    height: 200px;
+    width: 100px;
 }
 
 input[type="text"], input[type="password"] {
