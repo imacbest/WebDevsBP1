@@ -12,6 +12,12 @@ Beroepsproduct 1, HTML & CSS
     width: auto;
     text-align:center;
 }
+#nav a{
+    color:black;
+}
+#nav li:hover > a, #nav li:hover ul li > a{
+    color:white;
+}
 
 #nav ul {
     text-align: center;
