@@ -48,7 +48,7 @@ html, body {
     width: 80%;
     margin-top: 15px;
     margin-left: auto;
-    margin-right: auto;
+
 }
 #pageContent{
     float: left;
@@ -58,13 +58,14 @@ html, body {
     padding: 5px;
 }
 #ad{
-    float: left;
+
     width: 15%;
     height: auto;
-    left: 10px;
+    right: 0px;
+    position: absolute;
 }
 #ad img{
-    margin-left: 50px;
+    right: 0px;
     width: 200px;
     height: auto;
 }
