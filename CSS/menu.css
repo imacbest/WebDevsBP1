@@ -14,6 +14,7 @@ Beroepsproduct 1, HTML & CSS
 }
 #nav a{
     color:black;
+    padding: 20px 30% 20px 30%;
 }
 #nav li:hover > a, #nav li:hover ul li > a{
     color:white;
