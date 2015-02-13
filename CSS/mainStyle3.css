@@ -45,9 +45,9 @@ html, body {
 }
 #content {
     position: relative;
-    width: 80%;
+    width: 85%;
     margin-top: 15px;
-    margin-left: auto;
+    margin-left: 10%;
 
 }
 #pageContent{
