@@ -137,8 +137,23 @@ input:focus{
     left:0px;
     border: 1px black solid;
     padding: 5px;
-    margin-top: 2px;
+    margin-top: 0px;
 }
 a{
     color:#666666;
+}
+#producten{
+    width: 80%;
+    float: right;
+}
+.product{
+    width: 150px;
+    border: 2px black solid;
+    margin-bottom: 5px;
+    display: inline-block;
+    padding: 2px;
+    height: 250px;
+    vertical-align: bottom;
+    text-align: center;
+    box-sizing: border-box;
 }
