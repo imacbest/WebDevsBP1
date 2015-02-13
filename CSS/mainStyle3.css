@@ -89,6 +89,7 @@ table, th, td, tr{
 .imgRight{
     float:right;
     padding-left: 10px;
+    border:0;
 }
 .imgLeft{
     float:left;
